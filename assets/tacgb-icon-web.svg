@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 256 256">
+  <!-- Generator: Adobe Illustrator 30.8.1, SVG Export Plug-In . SVG Version: 2.1.4 Build 1)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2 {
+        fill: none;
+      }
+
+      .st3 {
+        fill: #9ccc52;
+      }
+
+      .st4 {
+        fill: #e5c648;
+      }
+
+      .st5 {
+        fill: #28634f;
+      }
+
+      .st1 {
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 12px;
+      }
+
+      .st6 {
+        opacity: .85;
+      }
+
+      .st2 {
+        isolation: isolate;
+        opacity: .4;
+        stroke: #d0b62f;
+        stroke-width: 2px;
+      }
+
+      .st7 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" x="8" y="8" width="240" height="240" rx="56" ry="56"/>
+    </clipPath>
+  </defs>
+  <rect class="st4" x="8" y="8" width="240" height="240" rx="56" ry="56"/>
+  <g class="st7">
+    <g>
+      <circle class="st3" cx="53.08" cy="91.61" r="85.02"/>
+      <circle class="st5" cx="205.94" cy="55.56" r="56.68"/>
+      <circle class="st5" cx="106.73" cy="222.34" r="42.51"/>
+      <circle class="st3" cx="219.44" cy="182.94" r="56.68"/>
+    </g>
+  </g>
+  <rect class="st2" x="8" y="8" width="240" height="240" rx="56" ry="56"/>
+  <g class="st6">
+    <g>
+      <path class="st1" d="M54.21,53.66c20.17-19.48,44.52-29.21,75.12-29.21s54.95,9.74,75.82,29.21"/>
+      <path class="st1" d="M43.08,96.79c21.56-30.61,52.86-46.6,86.25-46.6s65.38,16,86.95,46.6"/>
+      <path class="st1" d="M67.42,211.56c-13.22-17.39-18.78-36.87-18.09-54.95.7-45.21,35.47-79.99,78.6-79.99s81.38,35.47,81.38,79.99c0,19.48-11.13,32.69-25.74,32.69s-25.04-11.13-25.04-27.13c0-19.48-13.22-33.39-29.91-33.39s-28.52,13.91-28.52,29.91c0,24.35,19.48,52.17,49.39,65.38"/>
+      <path class="st1" d="M108.46,224.08c-22.26-21.56-34.08-45.91-34.08-66.78,0-31.3,23.65-54.95,54.26-54.95s55.65,23.65,55.65,55.65"/>
+      <path class="st1" d="M129.33,154.52c0,26.43,16,50.08,46.6,57.04"/>
+    </g>
+  </g>
+</svg>
