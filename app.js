@@ -70,10 +70,10 @@ if (/^[A-Za-z0-9_-]{11}$/.test(youtubeId)) {
   slot.replaceChildren();
   slot.setAttribute('aria-label', 'TacGooseBumps research video');
   const frame = document.createElement('iframe');
-  frame.src = 'https://www.youtube-nocookie.com/embed/' + youtubeId + '?autoplay=1&mute=1&playsinline=1&loop=1&playlist=' + youtubeId;
+  frame.src = 'https://www.youtube-nocookie.com/embed/' + youtubeId + '?autoplay=0&mute=0&playsinline=1';
   frame.title = 'TacGooseBumps research video';
   frame.loading = 'lazy';
-  frame.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
+  frame.allow = 'encrypted-media; picture-in-picture; fullscreen';
   frame.allowFullscreen = true;
   frame.referrerPolicy = 'strict-origin-when-cross-origin';
   slot.append(frame);
